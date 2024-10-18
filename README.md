@@ -1,4 +1,4 @@
 # How to run it ?
 
-docker build -t blackjackgame .
-docker run  blackjackgame
+docker build -t blackjackgame . \n
+docker run  blackjackgame 
